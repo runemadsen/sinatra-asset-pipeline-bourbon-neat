@@ -1,4 +1,3 @@
-sinatra-asset-pipeline-bourbon-neat
-===================================
+# Sinatra Asset Pipeline with Bourbon and Neat
 
-Example of how to use the sinatra-asset-pipeline gem with Bourbon and Neat. Took me a while.
+This is a sample Sinatra application that shows you how to use Bourbon and Neat with the `sinatra-asset-pipeline` gem.
